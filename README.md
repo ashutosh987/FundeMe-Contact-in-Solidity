@@ -17,6 +17,6 @@ As I have mentioned earlier , FundMe() has min. threshold of 50 USD. So as we ha
 So we have used imported chainLink for data request and convert ethers to USD for checking threshold.
 
 Note : you can be confused when seeing multiple with 1e18 or 1e10. Pls go through chainLink doc to know more.
-![Smart Contract]([[https://e7.pngegg.com/pngimages/93/538/png-clipart-smart-contract-computer-icons-ethereum-solidity-symbol-miscellaneous-angle.png](https://2585722390-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-LvPXC4l2V4Z8gRDNIoZ%2F-LwSbg4g3VGW_iXa_QHl%2F-LwSe4KvYfSuN-uwqUOF%2Fsmart-contract-logo.jpg?alt=media&token=a6840323-39c9-4f79-a56e-f923973ab83c)](https://pixelplex.io/wp-content/uploads/2021/01/smart-contracts-in-hyperledger-fabric-blockchain-main-1600.jpg))
+![Smart Contract](https://pixelplex.io/wp-content/uploads/2021/01/smart-contracts-in-hyperledger-fabric-blockchain-main-1600.jpg)
 
 
